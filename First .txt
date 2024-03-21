@@ -1,2 +1,4 @@
 first text 
-added from branch2
+
+line added from branch 1 
+
