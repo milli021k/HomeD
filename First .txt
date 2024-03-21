@@ -1,3 +1,4 @@
 first text 
 
 line added from branch 1 
+
