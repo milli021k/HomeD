@@ -7,3 +7,4 @@ added from amazon ec2
 FUCKING ADDED FROM EC2 AGIN IN VI 
 
 added new line to test merge
+
