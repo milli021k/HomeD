@@ -1,5 +1,1 @@
 first text 
-
-line added from branch 1 
-
-Add new line 
